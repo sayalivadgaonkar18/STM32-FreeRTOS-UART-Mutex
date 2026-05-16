@@ -99,7 +99,7 @@ The mutex allows only one task to access UART at a time.
 
 # Serial Output
 
-!\[UART Output](Images/output.png)
+!\[UART Output](https://github.com/sayalivadgaonkar18/STM32-FreeRTOS-UART-Mutex/blob/main/Images/output.png)
 
 
 
